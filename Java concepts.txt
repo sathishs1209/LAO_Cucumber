@@ -1,0 +1,66 @@
+Java concepts
+
+1. Syntax - Conventions
+- package should start with lower case
+- keyword should start with lower case
+- class, interface with upper letters
+
+2. Datatypes
+- primitive data type
+- non primitie data type
+
+3. operators
+int a = 10
+int b = 20
+= is the operators
+
+all operators / logocal/ binary operators
+
+4. OOPS
+- Class
+- Objects
+- method
+- contructor
+- Inheritance- single/multiple/multi level
+- polymorphism - runtime(method overriding)/compile time(Method overloading/contructor overloading)
+- Abstraction
+- Encapsulation
+- Wrapper classes
+- String class, string buffer, string builder
+
+5. ENUM, Interface, Abstract class
+
+6. Array
+- 2D object array
+
+7. Collections
+- List(Arraylist, linkedlist)
+- Set(Hashset, linked hashset, treeset, sortedset)
+- Map
+- Iterator
+
+8. Control Statement
+
+
+9. Loop statement
+
+10. Packages
+
+11. Access modifier
+public, private, protected
+
+12. keywords(53 keywords)
+- this, super, final, static, throw, throws
+- break, continue
+
+13. Exception handling
+- diff between exceptional errors
+- throw and trows
+- try catch, try catch with finally, try with multiple catch
+
+14. File handling
+- Read external file
+
+reflection
+
+
